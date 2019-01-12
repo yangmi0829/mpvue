@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/index2"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "mpvue demo",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  }
+}

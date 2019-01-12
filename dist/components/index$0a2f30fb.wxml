@@ -1,0 +1,5 @@
+<template name="index$0a2f30fb">
+  <view class="_div data-v-0d53d50b container">
+    <i-button type="success" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_i-button data-v-0d53d50b">1</i-button>
+  </view>
+</template>
